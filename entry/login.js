@@ -6,7 +6,7 @@ import MaterialIcon from 'react-native-vector-icons/MaterialIcons'
 import { AuthContext } from '../routes/Authentication/AuthProvider';
 
 function Login({ navigation }) {
-
+    //login to test git hub 
     const [EmailID, setEmailID] = useState("");
     const [password, setPassword] = useState("");
 
